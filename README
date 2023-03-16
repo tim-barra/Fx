@@ -11,3 +11,11 @@
 ##Authors: Xiuhan Zhang and Timothy G. Barraclough (tim.barraclough@biology.ox.ac.uk)
 
 ##They are free to use in return for a citation acknowledging where code has come from. 
+
+
+##Code contains files to run:
+	##Methods_ClimateNLS.R fits Sharpe-Schoolfield models to temperature climate data using nonlinear regression
+	##Supplementary_ClimateGLM.R fits climate models including precipttation as well as temperature
+	##Methods_GrowthAssay.R fits Sharpe-Schoolfield models to fungal growth assay data 
+	
+##Data contains the relevant datafiles for severity records at sampled localities and assay data
